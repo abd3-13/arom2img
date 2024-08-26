@@ -2,8 +2,7 @@
 Android ROM zip files extract and decompress the dat to img
 
 # Orignal Work
-This script is for a linux OS and is based on the work [Andrei Conache][1]
-[1]: https://github.com/xpirt/sdat2img "Andrei Conache"
+This script is for a linux OS and is based on the work [Andrei Conache]https://github.com/xpirt/sdat2img
 
 # Requirements
 This script requires Python 2.7 or newer installed on your system.
