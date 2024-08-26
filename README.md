@@ -10,6 +10,8 @@ Other requirements are checked by the script
 
 # Usage
 Script creates a folder with the 4 initial letter of the rom file followed by a random number in the current working dir that contains the sparse img files.
+
+
     #if script is added to PATH
     arom2img android_rom_file.zip
     
